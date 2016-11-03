@@ -13,3 +13,6 @@ Before use, review and test the code.
 2. Run the script with: sh .clear.sh
 3. Enter password when prompted.
 4. Check if the all data you need are deleted.
+
+### Upgrade
+Send me your scripts or issues, to make this application much better.
