@@ -16,3 +16,8 @@ Before use, review and test the code.
 
 ### Upgrade
 Send me your scripts or issues, to make this application much better.
+
+### Donations ###
+Feel free to donate some bitcoins if my work is helpful to you: [1BqkpaebQyTZh17cfd2XzR5zY9Mvc1FEbj](bitcoin:1BqkpaebQyTZh17cfd2XzR5zY9Mvc1FEbj?label=ClearMyMac)
+
+Thank you!
