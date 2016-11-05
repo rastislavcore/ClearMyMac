@@ -8,11 +8,12 @@ You can change any script and use it for your needs.
 Before use, review and test the code.
 
 ### Starting the scripts:
-0. First update the .cmm_clear.sh script with scripts do you want to run.
-1. Start terminal and navigate to the path with files.
-2. Run the script with: sh .cmm_clear.sh
-3. Enter password when prompted.
-4. Check if the all data you need are deleted.
+1. Copy the scripts to your home directory "~/".
+2. Start terminal and navigate to your home directory "cd ~/".
+3. Update the .cmm_clear.sh script with scripts do you want to run.
+4. Run the script with: sh .cmm_clear.sh
+5. Enter password when prompted.
+6. Check if the all data you need, have been deleted.
 
 Note: Files starting with "." are hidden in Mac. You can still edit these with terminal.
 
