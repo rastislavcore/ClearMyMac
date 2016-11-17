@@ -1,6 +1,8 @@
 #!/bin/sh
 read -s -p "Password: " pswd
 echo $pswd | sudo -S sh .cmm_clear_caches.sh
+echo $pswd | sudo -S sh .cmm_nocache_safari.sh
+echo $pswd | sudo -S sh .cmm_nocache_chrome.sh
 echo $pswd | sudo -S sh .cmm_clear_logs.sh
 echo $pswd | sudo -S sh .cmm_clear_userlogs.sh
 echo $pswd | sudo -S sh .cmm_clear_thumbs.sh
