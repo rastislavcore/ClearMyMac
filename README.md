@@ -21,6 +21,6 @@ Note: Files starting with "." are hidden in Mac. You can still edit these with t
 Send me your scripts or issues, to make this application much better.
 
 ### Donations ###
-Feel free to donate some bitcoins if my work is helpful to you: [1BqkpaebQyTZh17cfd2XzR5zY9Mvc1FEbj](http://vasicka.eu/coin/btc.php?label=ClearMyMac)
+Feel free to donate some bitcoins if my work is helpful to you: [14DeLSyGYNSLpxDwSKBXhrwZPX7GCX2GD7](https://link.btc.horse/?label=ClearMyMac#14DeLSyGYNSLpxDwSKBXhrwZPX7GCX2GD7)
 
 Thank you!
