@@ -19,8 +19,3 @@ Note: Files starting with "." are hidden in Mac. You can still edit these with t
 
 ### Upgrade
 Send me your scripts or issues, to make this application much better.
-
-### Donations ###
-Feel free to donate some bitcoins if my work is helpful to you: [14DeLSyGYNSLpxDwSKBXhrwZPX7GCX2GD7](https://link.btc.horse/?label=ClearMyMac#14DeLSyGYNSLpxDwSKBXhrwZPX7GCX2GD7)
-
-Thank you!
