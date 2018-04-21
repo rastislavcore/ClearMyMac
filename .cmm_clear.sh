@@ -12,4 +12,5 @@ echo $pswd | sudo -S sh .cmm_clear_safari.sh
 
 echo $pswd | sudo -S sh .cmm_clear_trash.sh
 echo $pswd | sudo -S sh .cmm_clear_bash.sh
+echo $pswd | sudo -S sh .cmm_clear_mailattachments.sh
 echo $pswd | sudo -S sh .cmm_arrange_launchpad.sh
